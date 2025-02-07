@@ -3,7 +3,7 @@
     "linkStatus": "",
     
     "title1": "ANADOLU HİSARI",
-    "link1": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8",
+    "link1": "https://hls.ibb.gov.tr/ls/cam_turistik/b_anadoluhisari.stream/playlist.m3u8",
     
     "title2": "BAĞDAT CADDESİ 1(false)",
     "link2": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8",
@@ -11,83 +11,83 @@
     "title3": "BAĞDAT CADDESİ 2(false)",
     "link3": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/playlist.m3u8",
     
-    "title4": "BEYAZIT KULESİ(false)",
-    "link4": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8",
+    "title4": "BEYAZIT KULESİ",
+    "link4": "https://hls.ibb.gov.tr/ls/cam_turistik/b_beyazitkule.stream/playlist.m3u8",
     
-    "title5": "BEYAZIT MEYDANI(false)",
-    "link5": "https://livestream.ibb.gov.tr/cam_turistik/cam_beyazit_meydan.stream/playlist.m3u8",
+    "title5": "BEYAZIT MEYDANI",
+    "link5": "https://hls.ibb.gov.tr/ls/cam_turistik/b_beyazitmeydani.stream/playlist.m3u8",
     
     "title6": "BÜYÜK ÇAMLICA",
-    "link6": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8",
+    "link6": "https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml%C4%B1ca.stream/playlist.m3u8",
     
     "title7": "DRAGOS",
-    "link7": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8",
+    "link7": "https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/playlist.m3u8",
     
     "title8": "EMİNÖNÜ",
-    "link8": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8",
+    "link8": "https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8",
     
     "title9": "EMİRGAN",
-    "link9": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8",
+    "link9": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8",
     
     "title10": "EYÜP SULTAN",
-    "link10": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8",
+    "link10": "https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8",
     
-    "title11": "HİDİV KASRI",
-    "link11": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8",
+    "title11": "HİDİV KASRI false 07.02.2025",
+    "link11": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8",
     
-    "title12": "İSTİKLAL CADDESİ 1",
+    "title12": "İSTİKLAL CADDESİ 1(FALSE_2023_10_24)",
     "link12": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/playlist.m3u8",
     
-    "title13": "İSTİKLAL CADDESİ 2",
+    "title13": "İSTİKLAL CADDESİ 2(FALSE_2023_10_24)",
     "link13": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_2.stream/playlist.m3u8",
     
-    "title14": "KADIKÖY",
-    "link14": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/playlist.m3u8",
+    "title14": "KADIKÖY false 07.02.2025",
+    "link14": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kadikoy.stream/playlist.m3u8",
     
     "title15": "KAPALI ÇARŞI",
-    "link15": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8",
+    "link15": "https://hls.ibb.gov.tr/ls/cam_turistik/b_kapalicarsi.stream/playlist.m3u8",
     
-    "title16": "KARAKÖY",
-    "link16": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8",
+    "title16": "KARAKÖY false 07.02.2025",
+    "link16": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8",
     
     "title17": "KIZ KULESİ",
-    "link17": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8",
+    "link17": "https://hls.ibb.gov.tr/ls/cam_turistik/new_K%C4%B1zkulesi.stream/playlist.m3u8",
     
     "title18": "KÜÇÜK ÇAMLICA(false)",
     "link18": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kucuk_camlica.stream/playlist.m3u8",
     
     "title19": "GALATA KULESİ",
-    "link19": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8",
+    "link19": "https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/playlist.m3u8",
     
-    "title20": "MISIR ÇARŞISI",
-    "link20": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8",
+    "title20": "MISIR ÇARŞISI false 07.02.2025",
+    "link20": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8",
     
-    "title21": "MİNİATÜRK",
-    "link21": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8",
+    "title21": "MİNİATÜRK false 07.02.2025",
+    "link21": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8",
     
-    "title22": "PİERRE LOTTİ",
+    "title22": "PİERRE LOTTİ(FALSE_2023_10_24)",
     "link22": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/playlist.m3u8",
     
     "title23": "SALACAK",
-    "link23": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8",
+    "link23": "https://hls.ibb.gov.tr/ls/cam_turistik/b_salacak.stream/playlist.m3u8",
     
     "title24": "SARAÇHANE",
-    "link24": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8",
+    "link24": "https://hls.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/playlist.m3u8",
     
     "title25": "SEPETÇİLER KASRI",
-    "link25": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8",
+    "link25": "https://hls.ibb.gov.tr/ls/cam_turistik/b_sepetcilerkasri.stream/playlist.m3u8",
     
-    "title26": "SULTANAHMET 1",
+    "title26": "SULTANAHMET 1(FALSE_2023_10_24)",
     "link26": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/playlist.m3u8",
     
     "title27": "SULTANAHMET 2",
-    "link27": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8",
+    "link27": "https://hls.ibb.gov.tr/ls/cam_turistik/b_sultanahmet2.stream/playlist.m3u8",
     
-    "title28": "TAKSİM",
+    "title28": "TAKSİM(FALSE_2023_10_24)",
     "link28": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/playlist.m3u8",
     
-    "title29": "ULUS PARKI",
-    "link29": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8",
+    "title29": "ULUS PARKI false 07.02.2025",
+    "link29": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8",
     
     "title30": "",
     "link30": "",
